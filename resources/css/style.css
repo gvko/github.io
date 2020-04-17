@@ -96,6 +96,10 @@ section {
     line-height:30px;
 }
 
+.university-title {
+    color: #727272
+}
+
 .dot {
     height: 8px;
     width: 8px;
